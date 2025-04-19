@@ -44,10 +44,5 @@ Once Group Policy Editor is installed:
 5. Click **Apply**, then **OK**
 6. Restart your PC to apply changes
 
----
-
-This setup ensures Windows notifies you **before downloading updates**, giving you full control.
-
----
-
-Let me know if you want a downloadable `.bat` file linked in the README or any badges/icons added!
+ 
+ 
